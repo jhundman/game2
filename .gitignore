@@ -1,0 +1,9 @@
+# Love2D-specific
+*.love              # Compiled game file
+*.zip               # Zipped distribution
+
+# Build directories
+/build/             # Common folder for builds
+/dist/              # Common folder for distribution files
+
+.DS_Store
