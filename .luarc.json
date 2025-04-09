@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+  "runtime.version": "LuaJIT",
+  "diagnostics.severity": {
+    "duplicate-set-field": "Hint"
+  },
+  "format.enable": true,
+  "format.defaultConfig": {
+    "indent_style": "tab"
+  },
+  "workspace.library": ["${3rd}/love2d/library"],
+  "workspace.checkThirdParty": false
+}
